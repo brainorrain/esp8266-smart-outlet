@@ -1,6 +1,10 @@
-# ESP8266-Smart-Outlet
+# ESP8266 Smart Outlet
 
 Over MQTT controllable Wall Outlet.
+
+![Gehäuse](enclosure.jpg)
+
+![PCB](pcb_screenshot.png)
 
 ## Components
 
